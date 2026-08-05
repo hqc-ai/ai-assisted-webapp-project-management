@@ -19,11 +19,12 @@ This repository is shared publicly to provide practical value to the AI, governa
 
 **If this repository creates value for your work, please consider supporting its continued development.**
 
-### Bank transfer — Vietnam
+### Bank transfer — Vietnam & International
 
 - **Bank:** Shinhan Bank Vietnam
 - **Account holder:** NGUYEN DANG QUANG
 - **Account number:** `0944659937`
+- **SWIFT/BIC: `SHBKVNVX`
 - **Transfer reference:** `DONATE HQC`
 
 <p align="center">
